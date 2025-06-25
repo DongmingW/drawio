@@ -122,13 +122,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BCoa8AJotRuoX6E0Mg1D-34" value="特征&lt;div&gt;共线性干扰&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1040" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BCoa8AJotRuoX6E0Mg1D-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;fontStyle=0" parent="1" source="BCoa8AJotRuoX6E0Mg1D-36" target="BCoa8AJotRuoX6E0Mg1D-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BCoa8AJotRuoX6E0Mg1D-36" value="VIF值筛选&amp;lt;10" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1040" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BCoa8AJotRuoX6E0Mg1D-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;fontStyle=0" parent="1" source="BCoa8AJotRuoX6E0Mg1D-39" target="BCoa8AJotRuoX6E0Mg1D-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -209,10 +209,10 @@
           <mxGeometry x="940" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BCoa8AJotRuoX6E0Mg1D-71" value="F&lt;span style=&quot;font-size: 15px;&quot;&gt;1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1040" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="1040" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BCoa8AJotRuoX6E0Mg1D-72" value="F&lt;span style=&quot;font-size: 15px;&quot;&gt;2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1040" y="-20" width="60" height="30" as="geometry" />
+          <mxGeometry x="1040" y="-10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BCoa8AJotRuoX6E0Mg1D-74" value="G&lt;span style=&quot;font-size: 15px;&quot;&gt;1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1140" y="280" width="60" height="30" as="geometry" />
